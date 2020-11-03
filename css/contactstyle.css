@@ -105,13 +105,9 @@
 
   }
 
-  .or{
-    font-size: 20px;
-    margin-top: 50px;
-  }
 
   hr{
-    margin-top: 2%;
+    /* margin-top: 2%; */
     margin-left: 18%;
     margin-right: 18%;
   }
@@ -134,7 +130,7 @@
 
   .signup{
     text-align: center;
-    margin-top: 2%;
+    /* margin-top: 2%; */
     color: white;
   }
 
